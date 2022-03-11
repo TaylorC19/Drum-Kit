@@ -1,6 +1,6 @@
 # Drum-Kit
 
-##Purpose
+## Purpose
   This project is a recreation of a drum kit app. The user can either push the buttons with the mouse or press the displayed key on the keyboard to play the respective sound.
   
 ## What I learned
