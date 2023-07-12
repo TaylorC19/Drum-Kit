@@ -1,5 +1,7 @@
 # Drum-Kit
 
+Live demo: https://taylorc19.github.io/Drum-Kit/
+
 ## Purpose
   This project is a recreation of a drum kit app. The user can either push the buttons with the mouse or press the displayed key on the keyboard to play the respective sound.
   
